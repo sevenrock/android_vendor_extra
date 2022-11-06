@@ -8,3 +8,6 @@ endif
 
 # Overlays
 PRODUCT_PACKAGE_OVERLAYS += $(EXTRA_PATH)/overlay-lineage
+
+# Wallpaper
+TARGET_INCLUDE_OLD_WALLPAPERS := true
