@@ -3,7 +3,27 @@
     <string-array name="configs_first_boot_base">
         <item>global/adb_enabled=1</item>
         <item>global/adb_allowed_connection_time=0</item>
+        <item>global/bluetooth_on=0</item>
+        <item>global/captive_portal_mode=0</item>
         <item>global/development_settings_enabled=1</item>
-        <item>system/screen_off_timeout=1800000</item>
+        <item>global/force_allow_on_external=0</item>
+        <item>global/low_power_trigger_level=25</item>
+        <item>global/mobile_data_always_on=0</item>
+        <item>global/ota_disable_automatic_update=1</item>
+        <item>global/private_dns_mode=off</item>
+        <item>global/sms_outgoing_check_max_count=0</item>
+        <item>global/upload_apk_enable=0</item>
+        <item>global/wifi_networks_available_notification_on=0</item>
+        <item>secure/charging_sounds_enabled=0</item>
+        <item>secure/charging_vibration_enabled=0</item>
+        <item>secure/clock_seconds=1</item>
+        <item>secure/night_display_activated=0</item>
+        <item>secure/night_display_auto_mode=2</item>
+        <item>system/dtmf_tone=0</item>
+        <item>system/lockscreen_sounds_enabled=0</item>
+        <item>system/screen_brightness_mode=0</item>
+        <item>system/screen_brightness=255</item>
+        <item>system/sound_effects_enabled=0</item>
+        <item>system/vibrate_on=0</item>
     </string-array>
 </resources>
